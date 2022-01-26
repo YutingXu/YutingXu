@@ -1,6 +1,7 @@
 - Yuting Xu
 - Final year undergraduate student at Imperial College London
 - Dept. Eletrical and Electronic Engineering
+- Embedded applications for biomedical devices
 - yx8918@ic.ac.uk
 
 <!---
