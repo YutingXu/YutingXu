@@ -3,6 +3,7 @@
 - Dept. Eletrical and Electronic Engineering
 - Embedded applications for biomedical devices
 - yx8918@ic.ac.uk
+- Personal portfolio: https://yutingxu.myportfolio.com
 
 <!---
 YutingXu/YutingXu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
