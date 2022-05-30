@@ -1,6 +1,6 @@
 - Yuting Xu
 - Final year undergraduate student at Imperial College London
-- Dept. Eletrical and Electronic Engineering
+- Dept. Electrical and Electronic Engineering
 - Embedded applications for biomedical devices
 - Experienced in PCB design & layout
 - yx8918@ic.ac.uk
