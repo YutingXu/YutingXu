@@ -2,6 +2,7 @@
 - Final year undergraduate student at Imperial College London
 - Dept. Eletrical and Electronic Engineering
 - Embedded applications for biomedical devices
+- Experienced in PCB design & layout
 - yx8918@ic.ac.uk
 - Personal portfolio: https://yutingxu.myportfolio.com
 
