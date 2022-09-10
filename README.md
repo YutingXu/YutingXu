@@ -1,5 +1,6 @@
 - Yuting Xu
-- Final year undergraduate student at Imperial College London
+- MEng with First Class Honours
+- Incoming PhD student
 - Dept. Electrical and Electronic Engineering
 - Embedded applications for wearable biomedical devices
 - Experienced in PCB design & layout
