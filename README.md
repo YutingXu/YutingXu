@@ -1,8 +1,8 @@
 - Yuting Xu
 - MEng with First Class Honours
-- Incoming PhD student
+- PhD student and Research Assistant in biomedical devices
 - Dept. Electrical and Electronic Engineering
-- Embedded applications for wearable biomedical devices
+- Designing embedded systems for wearable biomedical devices
 - Experienced in PCB design & layout
 - yx8918@ic.ac.uk
 - Personal portfolio: https://yutingxu.myportfolio.com
