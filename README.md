@@ -1,7 +1,8 @@
 - Yuting Xu
 - MEng with First Class Honours
-- PhD student and Research Assistant in biomedical devices
+- PhD student and Research Assistant in wearable biomedical devices
 - Dept. Electrical and Electronic Engineering
+- Founding Engineer at AIRS ML, Head of Hardware Development
 - Designing embedded systems for wearable biomedical devices
 - Experienced in PCB design & layout
 - yx8918@ic.ac.uk
