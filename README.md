@@ -5,7 +5,7 @@
 - Founding Engineer at AIRS ML, Head of Hardware Development
 - Designing embedded systems for wearable biomedical devices
 - Experienced in PCB design & layout
-- yx8918@ic.ac.uk
+- yuting.xu@imperial.ac.uk
 - Personal portfolio: https://yutingxu.myportfolio.com
 
 <!---
